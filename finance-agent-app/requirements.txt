@@ -1,0 +1,13 @@
+streamlit
+yfinance
+transformers
+pandas
+matplotlib
+python-dotenv
+textblob
+rapidfuzz
+scikit-learn
+newspaper4k
+duckduckgo-search
+groq
+agno
